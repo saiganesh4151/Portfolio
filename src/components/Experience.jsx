@@ -4,16 +4,16 @@ const Experience = () => {
   const [activeTab, setActiveTab] = useState('experience');
 
   const positions = [
-    {
-      title: "Technical Lead",
-      company: "SRKR Coding Club",
-      date: "Feb 2025",
-      description: [
-        "Created clear and challenging problems for the IconCoderz-2K25 contest and organized the event on HackerRank, ensuring smooth execution and engaging over 200 participants.",
-        "Led the technical team by assigning tasks, guiding members, and encouraging teamwork to successfully complete the contest."
-      ]
+    // {
+    //   title: "Technical Lead",
+    //   company: "SRKR Coding Club",
+    //   date: "Feb 2025",
+    //   description: [
+    //     "Created clear and challenging problems for the IconCoderz-2K25 contest and organized the event on HackerRank, ensuring smooth execution and engaging over 200 participants.",
+    //     "Led the technical team by assigning tasks, guiding members, and encouraging teamwork to successfully complete the contest."
+    //   ]
 
-    },
+    // },
     {
       title: "Executive Body Representative",
       company: "SRKR Coding Club",
