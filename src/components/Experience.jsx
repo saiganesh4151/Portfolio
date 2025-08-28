@@ -15,7 +15,7 @@ const Experience = () => {
 
     // },
     {
-      title: "Executive Body Representative",
+      title: "Core Body Representative",
       company: "SRKR Coding Club",
       date: "Present",
       description: [
